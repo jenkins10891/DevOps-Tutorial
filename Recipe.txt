@@ -7,4 +7,7 @@ pasta
 Fry
 
 
+Beans
+Pizza
+
 Thank you
